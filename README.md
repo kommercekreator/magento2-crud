@@ -12,6 +12,10 @@ Go to magento root directory then run this command to install CRUD module.
 
 php bin/magento setup:upgrade
 
+## Table Name: custom_table (Auto Created in Database)
+
+## Frontend Url : path/to/magento-root-directory/crud 
+
 
 ## Model, Resource Model and Collection.
 
