@@ -2,13 +2,15 @@
 
 
 <h2>Welcome</h2>
-Welcome to Magento 2 CRUD Module! here you will learn magento2 crud opertions.
+Welcome to Magento 2 CRUD Module! here you will learn magento2 crud operations.
 
 These instructions guide you how to get, save and delete data using Model, Resource Model, Collection in magento2 custom module.
 
 ## Step1
 
-Go to magento root directory then run this command to install CRUD module.
+** Download Crud module & paste Paarth folder in App/code then.
+
+** Go to magento root directory then run this command to install CRUD module.
 
 php bin/magento setup:upgrade
 
